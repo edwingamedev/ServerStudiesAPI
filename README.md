@@ -1,2 +1,2 @@
-# FirstServerAPI
+# ServerStudiesAPI
 server api studies
