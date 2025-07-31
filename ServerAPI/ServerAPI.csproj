@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>MyFirstAPI</RootNamespace>
+    <UserSecretsId>dca0b4c7-e17e-4b25-a655-4c230326a619</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

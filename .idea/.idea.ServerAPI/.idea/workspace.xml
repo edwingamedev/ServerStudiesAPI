@@ -9,7 +9,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eb2871-ed1e-4aee-ac85-cbb20d1e2968" name="Changes" comment="" />
+    <list default="true" id="16eb2871-ed1e-4aee-ac85-cbb20d1e2968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ServerAPI/Context/AppDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerAPI/FirstServerAPI.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ServerAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ServerAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerAPI/MyFirstAPI.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ServerAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerAPI/ServerAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ServerAPI/ServerAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ServerAPI/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedLibrary/Models/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharedLibrary/Models/Category.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedLibrary/Models/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SharedLibrary/Models/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedLibrary/SharedLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SharedLibrary/SharedLibrary.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,25 +47,28 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="30W3hzkHwwyoOkddcUmYrE6R9gc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.MyFirstAPI: http.executor": "Run",
-    ".NET Launch Settings Profile.MyFirstAPI: https.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.MyFirstAPI: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.MyFirstAPI: https.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.MyFirstAPI: https">
     <configuration name="MyFirstAPI: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ServerAPI/ServerAPI.csproj" />
@@ -113,7 +127,7 @@
       <workItem from="1753729626938" duration="25000" />
       <workItem from="1753729995586" duration="1595000" />
       <workItem from="1753884173525" duration="3301000" />
-      <workItem from="1753887647271" duration="1890000" />
+      <workItem from="1753887647271" duration="10529000" />
     </task>
     <servers />
   </component>
@@ -123,6 +137,38 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ServerAPI/Program.cs</url>
+          <line>17</line>
+          <properties documentPath="C:\Users\edwin\Develop\DotNetProjects\FirstServerAPI\ServerAPI\Program.cs" containingFunctionPresentation="">
+            <startOffsets>
+              <option value="502" />
+            </startOffsets>
+            <endOffsets>
+              <option value="528" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ServerAPI/Program.cs</url>
+          <line>20</line>
+          <properties documentPath="C:\Users\edwin\Develop\DotNetProjects\FirstServerAPI\ServerAPI\Program.cs" containingFunctionPresentation="">
+            <startOffsets>
+              <option value="570" />
+            </startOffsets>
+            <endOffsets>
+              <option value="606" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
